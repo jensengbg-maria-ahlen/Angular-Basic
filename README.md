@@ -1,5 +1,7 @@
 # AngularBasic
 
+## Source to code: [Angular 8 Tutorial & Crash Course](https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
 ## Development server
